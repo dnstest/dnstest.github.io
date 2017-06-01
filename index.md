@@ -48,7 +48,7 @@ dnstest.io.		3600	IN	NS	ns1.dnstest.io.
 
 #### CAA Records
 ```
-dnstest.io.		3506	IN	CAA	0 issue "comodoca.com"
-dnstest.io.		3506	IN	CAA	0 issue "letsencrypt.org"
-dnstest.io.		3506	IN	CAA	0 issuewild "\;"
+dnstest.io.		3600	IN	CAA	0 issue "comodoca.com"
+dnstest.io.		3600	IN	CAA	0 issue "letsencrypt.org"
+dnstest.io.		3600	IN	CAA	0 issuewild "\;"
 ```
